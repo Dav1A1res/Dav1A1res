@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello and welcome to my GitHub page! 
 
 <!--
 **Dav1A1res/Dav1A1res** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
