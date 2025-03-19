@@ -1,16 +1,12 @@
-## Hello and welcome to my GitHub page! 
+## Hi, welcome to my GitHub profile!
 
-<!--
-**Dav1A1res/Dav1A1res** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+- 19y 
+- Systems Analysis and Development Technician 
+- Studying Systems Analysis and Development at [FATEC Antonio Russo](https://www.fatecsaocaetano.edu.br/) 
+- Brazilian 
+- Intermediate English. (B2/Upper) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on stuff
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### See more about my journey on IT
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dav1A1res&show_icons=true&theme=merko)](https://github.com/Dav1A1res/github-readme-stats)
