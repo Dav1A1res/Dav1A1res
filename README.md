@@ -20,5 +20,5 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-castanho-043b15240/)
 
 ---
-![](https://komarev.com/ghpvc/?username=Dav1A1res&color=#F24194)
+![](https://komarev.com/ghpvc/?username=Dav1A1res&color=F24194)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
