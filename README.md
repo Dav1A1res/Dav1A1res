@@ -26,3 +26,6 @@
 ---
 ![](https://komarev.com/ghpvc/?username=Dav1A1res&color=F24194)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/e78c200f-d747-4bc2-bca8-39f9397930be)
+<svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
+
