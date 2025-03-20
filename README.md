@@ -15,7 +15,7 @@
 ### 📊 GitHub Stats:
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dav1A1res&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1A1res&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dav1A1res&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 ### 🌐 Contact me for more information:
